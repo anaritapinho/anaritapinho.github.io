@@ -1,0 +1,50 @@
+body{
+background-color: black;
+font-family:  'Montserrat', sans-serif; 
+
+}
+
+header{
+	background: url('../img/sem2.jpg') no-repeat center center;
+ 	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+ 	-o-background-size: cover;
+  	background-size: cover;
+  	height: 100vh
+}
+
+.img-width{
+	width: 100%;
+}
+
+.margin-top{
+	margin-top: 50px;
+}
+.navbar{
+	background: darkgrey;
+}
+
+.my-text-color{
+	color:green;
+}
+
+.my-font{
+	font-family: 'Indie Flower', cursive;
+}
+.blue-html{
+	width:25%;
+	background-color: blue;
+}
+
+.red-html{
+	width:15%;
+	background-color: red;
+}
+
+.margin-title{
+	margin-top: 40vh;
+}
+
+iframe{
+	max-width: 95vw;
+}
