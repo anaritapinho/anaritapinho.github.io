@@ -44,3 +44,7 @@ header{
 .margin-title{
 	margin-top: 40vh;
 }
+
+iframe{
+	width: 100%;
+}
